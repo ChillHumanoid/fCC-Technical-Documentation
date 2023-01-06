@@ -99,6 +99,23 @@ code {
   text-decoration: underline;
   color: #6ce7fd;
 }
+
+.footer {
+  color: #535c68;
+	white-space: nowrap;
+  font-size: 0.925rem;
+	text-align: center;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #0171bb;
+	white-space: nowrap;
+}
+
+.footer a:hover {
+  color: #0a3d62;
+}
   
 @media only screen and (max-width: 815px) {
   /* For mobile phones: */
